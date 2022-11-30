@@ -8,7 +8,7 @@ const deleteComment = async (asin) => {
         method: "DELETE",
         headers: {
           Authorization:
-            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzZjZjQyMmQ0YmUzZDAwMTU4NDVmZWYiLCJpYXQiOjE2Njk3MzA2NDAsImV4cCI6MTY3MDk0MDI0MH0.7jjvxG0xoMiQ9FpIPJTKx98IId3SxB3ZxDy28QcdhGc",
+            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzZkMGE2N2Q0YmUzZDAwMTU4NDYwYjIiLCJpYXQiOjE2NjkyOTE3NTUsImV4cCI6MTY3MDUwMTM1NX0._f1bdfnB6xKuo30XePtxs3Qa1lVlXaEl64GFAbyrWw8",
         },
       }
     );

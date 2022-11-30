@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import SingleBook from "./SingleBook";
 import { Col, Container, Form, Row } from "react-bootstrap";
 import CommentArea from "./CommentArea";
